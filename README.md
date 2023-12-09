@@ -34,7 +34,7 @@ Se sugiere implementar las siguientes características adicionales:
 
 ## MockUp 
 
-![MockUp](/screenshots/screenshot1.png)
+![MockUp](https://github.com/grupo-firma-developer/prueba-tecnica-jr/blob/main/mockup.png?raw=true)
 
 ## Tecnologías Utilizadas
 
