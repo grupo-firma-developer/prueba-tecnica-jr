@@ -50,8 +50,8 @@ Credenciales para el login:
 
 ```json
 {
-  "username": "kminchelle",
-  "password": "0lelplR",
+  "username": "emilys",
+  "password": "emilyspass",
 }
 ```
 
@@ -62,8 +62,8 @@ fetch('https://dummyjson.com/auth/login', {
   headers: { 'Content-Type': 'application/json' },
   body: JSON.stringify({
     
-    username: 'kminchelle',
-    password: '0lelplR',
+    username: 'emilys',
+    password: 'emilyspass',
     // expiresInMins: 60, // optional
   })
 })
@@ -77,7 +77,7 @@ Respuesta credenciales correctas:
 ```json
 {
   "id": 15,
-  "username": "kminchelle",
+  "username": "emilys",
   "email": "kminchelle@qq.com",
   "firstName": "Jeanne",
   "lastName": "Halvorson",
